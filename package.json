@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Morshimus/SF-B9.5.1-NPM-package-function.git"
+    "url": "git+https://github.com/LanchSloth/B9.5.git"
   },
   "author": "Daniel Dalavurak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Morshimus/SF-B9.5.1-NPM-package-function/issues"
+    "url": "https://github.com/LanchSloth/B9.5/issues"
   },
-  "homepage": "https://github.com/Morshimus/SF-B9.5.1-NPM-package-function#readme"
+  "homepage": "https://github.com/LanchSloth/B9.5#readme"
 }
